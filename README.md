@@ -2,9 +2,11 @@
 Aplikasi yang dibuat untuk mencari nama film atau detail film baik dari luar negeri maupun dalam negeri. Dalam Aplikasi tersebut terdapat tampilan awal (home) tab bar untuk search, recent film, dan popular film. Pada tampilan selanjutnya adalah tampilan hasil dari kata kunci judul film yang dicari, jika terdapat judul film yang menyerupai dengan kata kunci tersebut maka akan ditampilkan hanya banner filmnya saja. Lalu jika ditekan salah satu bannernya maka akan masuk ke layar berikutnya yaitu layar bagian detail. Pada layar bagian detail terdapat informasi-informasi dari film tersebut, mulai dari metascore, rating, dan sinopsis.
 
 Tampilan Awal :
+
 <img src="https://user-images.githubusercontent.com/101730990/170901633-7562039b-b769-4268-ac9f-863e60e9ff9a.jpeg" width="200" height="350">
 
 Tampilan Pencarian :
+
 <img src="https://user-images.githubusercontent.com/101730990/170902494-04780b34-c30d-4ec9-a6ae-bba4a7a365d5.jpeg)" width="200" height="350">
 
 Tampilan Detail :
