@@ -22,3 +22,4 @@ API yang digunakan dari web https://www.omdbapi.com
 
 # Anggota Kelompok 
 - Fahlevi Ikhsanur Rizal (119140128)
+- Muhammad Yahya Ayyashy Mujahidan (119140134)
