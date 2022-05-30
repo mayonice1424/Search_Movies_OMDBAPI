@@ -3,8 +3,8 @@ Aplikasi yang dibuat untuk mencari nama film atau detail film baik dari luar neg
 
 # API
 API yang digunakan dari web https://www.omdbapi.com
-parameter s untuk mencari judul film
-parameter i untuk mencari detail film menggunakan acuan dari ID
+- parameter s untuk mencari judul film
+- parameter i untuk mencari detail film menggunakan acuan dari ID
 
 # Link download apk
 
