@@ -10,7 +10,8 @@ Tampilan Pencarian :
 <img src="https://user-images.githubusercontent.com/101730990/170902765-cb7f4bc8-5e9b-4371-9706-0663496200b9.jpeg" width="200" height="350">
 
 Tampilan Detail :
-<img src="https://user-images.githubusercontent.com/101730990/170901633-7562039b-b769-4268-ac9f-863e60e9ff9a.jpeg" width="200" height="350">
+
+<img src="https://user-images.githubusercontent.com/101730990/170902875-7e7ad286-8022-44d9-abc9-2aa9bb23cfd5.jpeg" width="200" height="350">
 
 # API
 API yang digunakan dari web https://www.omdbapi.com
