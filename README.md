@@ -18,7 +18,8 @@ API yang digunakan dari web https://www.omdbapi.com
 - parameter s untuk mencari judul film
 - parameter i untuk mencari detail film menggunakan acuan dari ID
 
-# Link download apk
+# Link download apk 
+https://expo.dev/artifacts/06a9a3c2-80b4-4db2-92e3-bbefc5a83165
 
 # Anggota Kelompok 
 - Fahlevi Ikhsanur Rizal (119140128)
